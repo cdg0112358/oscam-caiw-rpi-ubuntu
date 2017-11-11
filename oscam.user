@@ -1,0 +1,18 @@
+[account]
+user       = tvh1
+pwd        = ********
+uniq       = 0
+group      = 1
+ident 	   = 0606:000000
+caid       = 0606
+au         = CAIW
+
+[account]
+user       = tvh2
+pwd        = ********
+uniq       = 0
+group      = 1
+ident 	   = 0606:000000
+caid       = 0606
+au         = CAIW
+

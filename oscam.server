@@ -1,0 +1,19 @@
+[reader]
+label       = CAIW
+description = CAIW Smartcard
+protocol    = mouse
+device      = /dev/ttyUSB1
+#protocol    = smartreader
+#device      = 004:006        
+#smargopatch = 1
+mhz         = 600
+cardmhz     = 600
+emmcache    = 1,3,2
+group       = 1
+caid        = 0606:0000
+#chid        = 0606:000001,00FFD8,00001A,007FFD,007FFE
+#auprovid    = 04542F
+#aeskey      = 0102030405060708090a0b0c0d0e0f10
+rsakey      = 3C8633AAC0D367533DEC7BB2EEEDEB8CA3ADA52E58B99BB34672783277A1DAAC3B6106AD0909774E031B2A6E30195B437683AD0FC599B87D08CEA47BE1B6C76A
+boxkey      = 1122334455667788
+fallback    = 0
