@@ -1,5 +1,5 @@
 # oscam-caiw-rpi-ubuntu
-# oscam config files for caiw and raspberry pi stretch and ubuntu 16.04
+# oscam config files for caiw and raspberry pi stretch and ubuntu 16.04 with Smargo smartreader v2
 
 oscam-svn11392-Raspberry-webif-libusb-pcsc-Distribution.tar.gz
 
